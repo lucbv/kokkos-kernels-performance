@@ -1,0 +1,13 @@
+<performance-report date="2026-04-17T10:05:30" name="nightly_run_2026_04_17" time-units="seconds">
+  <metadata key="Version" value="9d702d8a2"/>
+  <timing name="polaris: DotMV" value="0.0019044541836532012">
+    <timing name="KokkosBlas_dot_mv&lt;DefaultHostExecutionSpace&gt;/m:100000/n:5/real_time" value="0.0004053189352879513"/>
+    <timing name="KokkosBlas_dot_mv&lt;DefaultHostExecutionSpace&gt;/m:1000000/n:5/real_time" value="0.004255740116991683"/>
+    <timing name="KokkosBlas_dot_mv&lt;DefaultHostExecutionSpace&gt;/m:10000000/n:5/real_time" value="0.04199541524490889"/>
+    <timing name="KokkosBlas_dot_mv&lt;DefaultHostExecutionSpace&gt;/m:100000000/n:5/real_time" value="0.42038350040093064"/>
+    <timing name="KokkosBlas_dot_mv&lt;DefaultExecutionSpace&gt;/m:100000/n:5/real_time" value="2.0132996617307357e-05"/>
+    <timing name="KokkosBlas_dot_mv&lt;DefaultExecutionSpace&gt;/m:1000000/n:5/real_time" value="7.278916622602571e-05"/>
+    <timing name="KokkosBlas_dot_mv&lt;DefaultExecutionSpace&gt;/m:10000000/n:5/real_time" value="0.0006237815078449335"/>
+    <timing name="KokkosBlas_dot_mv&lt;DefaultExecutionSpace&gt;/m:100000000/n:5/real_time" value="0.006216372596099973"/>
+  </timing>
+</performance-report>

@@ -1,0 +1,9 @@
+<performance-report date="2026-04-13T10:05:38" name="nightly_run_2026_04_13" time-units="seconds">
+  <metadata key="Version" value="9d702d8a2"/>
+  <timing name="polaris: TeamDot" value="0.007503749873248202">
+    <timing name="KokkosBlas_team_dot/run&lt;Kokkos::DefaultExecutionSpace&gt;/m:100000/real_time" value="0.00015495372570540535"/>
+    <timing name="KokkosBlas_team_dot/run&lt;Kokkos::DefaultExecutionSpace&gt;/m:1000000/real_time" value="0.001451353447631838"/>
+    <timing name="KokkosBlas_team_dot/run&lt;Kokkos::DefaultExecutionSpace&gt;/m:10000000/real_time" value="0.03718997361628632"/>
+    <timing name="KokkosBlas_team_dot/run&lt;Kokkos::DefaultExecutionSpace&gt;/m:100000000/real_time" value="0.3790638018399477"/>
+  </timing>
+</performance-report>

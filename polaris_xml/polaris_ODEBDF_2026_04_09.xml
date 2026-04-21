@@ -1,0 +1,6 @@
+<performance-report date="2026-04-09T10:05:33" name="nightly_run_2026_04_09" time-units="seconds">
+  <metadata key="Version" value="9d702d8a2"/>
+  <timing name="polaris: ODEBDF" value="0.006061558989037214">
+    <timing name="KokkosODE_BDF_Stiff_Chem/n:1000/real_time" value="0.006061558989037214"/>
+  </timing>
+</performance-report>

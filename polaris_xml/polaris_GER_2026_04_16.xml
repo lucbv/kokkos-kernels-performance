@@ -1,0 +1,6 @@
+<performance-report date="2026-04-16T10:05:29" name="nightly_run_2026_04_16" time-units="seconds">
+  <metadata key="Version" value="9d702d8a2"/>
+  <timing name="polaris: GER" value="0.02999339382608696">
+    <timing name="KokkosBlas2_GER/verbosity:0/m:5000/n:5000/yMode:1/LayoutLeft:1/manual_time" value="0.02999339382608696"/>
+  </timing>
+</performance-report>

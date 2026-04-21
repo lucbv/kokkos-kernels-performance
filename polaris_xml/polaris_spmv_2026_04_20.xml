@@ -1,0 +1,35 @@
+<performance-report date="2026-04-20T10:05:30" name="nightly_run_2026_04_20" time-units="seconds">
+  <metadata key="Version" value="9d702d8a2"/>
+  <timing name="polaris: spmv" value="6.124201544681011e-05">
+    <timing name="KokkosSparse_spmv/n:10000/nv:1/real_time" value="1.8153458408018895e-05"/>
+    <timing name="KokkosSparse_spmv/n:10000/nv:2/real_time" value="1.9538036917400626e-05"/>
+    <timing name="KokkosSparse_spmv/n:10000/nv:3/real_time" value="2.023978722600523e-05"/>
+    <timing name="KokkosSparse_spmv/n:10000/nv:4/real_time" value="2.0622067629797748e-05"/>
+    <timing name="KokkosSparse_spmv/n:10000/nv:10/real_time" value="2.5085568171518773e-05"/>
+    <timing name="KokkosSparse_spmv/n:20000/nv:1/real_time" value="1.9050335864253614e-05"/>
+    <timing name="KokkosSparse_spmv/n:20000/nv:2/real_time" value="2.3126867583472256e-05"/>
+    <timing name="KokkosSparse_spmv/n:20000/nv:3/real_time" value="2.470357706328911e-05"/>
+    <timing name="KokkosSparse_spmv/n:20000/nv:4/real_time" value="2.5007534462468697e-05"/>
+    <timing name="KokkosSparse_spmv/n:20000/nv:10/real_time" value="3.326843718775405e-05"/>
+    <timing name="KokkosSparse_spmv/n:40000/nv:1/real_time" value="2.147438725188247e-05"/>
+    <timing name="KokkosSparse_spmv/n:40000/nv:2/real_time" value="2.8257421045837282e-05"/>
+    <timing name="KokkosSparse_spmv/n:40000/nv:3/real_time" value="3.2032308658493236e-05"/>
+    <timing name="KokkosSparse_spmv/n:40000/nv:4/real_time" value="3.331000434024311e-05"/>
+    <timing name="KokkosSparse_spmv/n:40000/nv:10/real_time" value="4.945770275914183e-05"/>
+    <timing name="KokkosSparse_spmv/n:100000/nv:1/real_time" value="2.6968987605840505e-05"/>
+    <timing name="KokkosSparse_spmv/n:100000/nv:2/real_time" value="4.687414747188504e-05"/>
+    <timing name="KokkosSparse_spmv/n:100000/nv:3/real_time" value="5.592460928678112e-05"/>
+    <timing name="KokkosSparse_spmv/n:100000/nv:4/real_time" value="6.188126276784742e-05"/>
+    <timing name="KokkosSparse_spmv/n:100000/nv:10/real_time" value="0.00010880886515213368"/>
+    <timing name="KokkosSparse_spmv/n:250000/nv:1/real_time" value="4.762355624666425e-05"/>
+    <timing name="KokkosSparse_spmv/n:250000/nv:2/real_time" value="0.00010076781521605622"/>
+    <timing name="KokkosSparse_spmv/n:250000/nv:3/real_time" value="0.00012607206891522457"/>
+    <timing name="KokkosSparse_spmv/n:250000/nv:4/real_time" value="0.0001535999557597005"/>
+    <timing name="KokkosSparse_spmv/n:250000/nv:10/real_time" value="0.00031874036647121544"/>
+    <timing name="KokkosSparse_spmv/n:1000000/nv:1/real_time" value="0.00015662700785311465"/>
+    <timing name="KokkosSparse_spmv/n:1000000/nv:2/real_time" value="0.0003946523534883708"/>
+    <timing name="KokkosSparse_spmv/n:1000000/nv:3/real_time" value="0.0005108435774208421"/>
+    <timing name="KokkosSparse_spmv/n:1000000/nv:4/real_time" value="0.0006316220270140291"/>
+    <timing name="KokkosSparse_spmv/n:1000000/nv:10/real_time" value="0.001349918087620763"/>
+  </timing>
+</performance-report>

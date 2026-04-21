@@ -1,0 +1,9 @@
+<performance-report date="2026-04-19T10:05:26" name="nightly_run_2026_04_19" time-units="seconds">
+  <metadata key="Version" value="9d702d8a2"/>
+  <timing name="polaris: Dot" value="9.423949125711115e-05">
+    <timing name="KokkosBlas_dot/m:100000/real_time" value="2.0132268715807462e-05"/>
+    <timing name="KokkosBlas_dot/m:1000000/real_time" value="2.5099292906476923e-05"/>
+    <timing name="KokkosBlas_dot/m:10000000/real_time" value="0.00013456598482126199"/>
+    <timing name="KokkosBlas_dot/m:100000000/real_time" value="0.0011599579142715464"/>
+  </timing>
+</performance-report>

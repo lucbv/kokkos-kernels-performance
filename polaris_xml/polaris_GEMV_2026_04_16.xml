@@ -1,0 +1,6 @@
+<performance-report date="2026-04-16T10:05:29" name="nightly_run_2026_04_16" time-units="seconds">
+  <metadata key="Version" value="9d702d8a2"/>
+  <timing name="polaris: GEMV" value="0.029856689043478258">
+    <timing name="KokkosBlas2_GEMV/m:5000/n:5000/LayoutLeft:1/manual_time" value="0.029856689043478258"/>
+  </timing>
+</performance-report>
